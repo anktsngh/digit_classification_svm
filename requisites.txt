@@ -1,0 +1,10 @@
+python(>=2.7x)
+time		(install through pip)
+numpy		(install through pip)
+scipy		(install through pip)
+matplotlib	(install through pip)
+pandas		(install through pip)
+scikit-learn	(install through pip)
+libsvm(>=3.22)	(install from https://www.csie.ntu.edu.tw/~cjlin/libsvm/#download)
+
+*may work for lower versions of libsvm, not tested.
