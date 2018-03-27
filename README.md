@@ -1,5 +1,5 @@
 # Handwritten digit classiﬁcation using multi-class SVM with a Gaussian kernel. 
-In order to solve the optimization problem for the SVM, python interface to the LIBSVM package is used. (http://www.csie.ntu.edu.tw/cjlin/libsvm/)
+In order to solve the optimization problem for the SVM, python interface to the LIBSVM package is used. (hhttps://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 The training & test data used is USPS dataset. (The dataset refers to numeric data obtained from the scanning of handwritten digits from envelopes by the U.S. Postal Service).
 
 The implementation is done using two different schemes, namely OneVsOne & OneVsRest. The performance of both the schemes is summarized below.
